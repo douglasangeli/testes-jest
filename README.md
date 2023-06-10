@@ -1,5 +1,7 @@
 # POC Jest
 
+[![Node.js CI](https://github.com/douglasangeli/testes-jest/actions/workflows/node.js.yml/badge.svg)](https://github.com/douglasangeli/testes-jest/actions/workflows/node.js.yml)
+
 Uma prova de conceito do uso do framework de testes [Jest](https://jestjs.io/) para testes em chamadas de módulos CommonJS com mocks.
 
 
